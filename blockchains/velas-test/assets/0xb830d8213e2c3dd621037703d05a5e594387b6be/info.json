@@ -1,10 +1,10 @@
 {
-  "name": "WAG Token",
-  "symbol": "WAG",
-  "type": "VRC20",
+  "name": "AstroSwap",
+  "symbol": "ASTRO",
+  "type": "CRC20",
   "decimals": 18,
   "description": "-",
-  "website": "https://wagyuswap.app/",
+  "website": "https://www.astroswap.app/",
   "explorer": "https://evmexplorer.testnet.velas.com/address/0xb830d8213e2c3dd621037703d05a5e594387b6be",
   "status": "active",
   "id": "0xb830d8213e2c3dd621037703d05a5e594387b6be"

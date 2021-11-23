@@ -1,10 +1,10 @@
 {
-  "name": "Wrapped Velas",
-  "symbol": "WVLX",
-  "type": "VRC20",
+  "name": "Wrapped ADA",
+  "symbol": "WADA",
+  "type": "CRC20",
   "decimals": 18,
   "description": "-",
-  "website": "https://www.velas.com",
+  "website": "https://www.cardano.org/",
   "explorer": "https://evmexplorer.velas.com/address/0xc579d1f3cf86749e05cd06f7ade17856c2ce3126",
   "status": "active",
   "id": "0xc579d1f3cf86749e05cd06f7ade17856c2ce3126"
