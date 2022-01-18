@@ -1,0 +1,11 @@
+{
+  "name": "Cardano",
+  "symbol": "ADA",
+  "type": "CRC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.cardano.org/",
+  "explorer": "https://etherscan.io/token/0x6292d721d00bddaf683e1e64e4fcc9588c95398d",
+  "status": "active",
+  "id": "0x6292d721d00bddaf683e1e64e4fcc9588c95398d"
+}
