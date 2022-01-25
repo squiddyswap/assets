@@ -1,6 +1,6 @@
 {
   "name": "Wrapped ADA",
-  "symbol": "WADA",
+  "symbol": "ADA",
   "type": "CRC20",
   "decimals": 18,
   "description": "-",
