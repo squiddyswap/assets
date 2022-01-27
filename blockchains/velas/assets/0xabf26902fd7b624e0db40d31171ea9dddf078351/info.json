@@ -1,7 +1,7 @@
 {
   "name": "AstroSwap",
   "symbol": "ASTRO",
-  "type": "CRC20",
+  "type": "VRC20",
   "decimals": 18,
   "description": "-",
   "website": "https://www.astroswap.app/",
