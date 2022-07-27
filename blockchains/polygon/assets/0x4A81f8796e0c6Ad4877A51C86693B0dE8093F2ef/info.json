@@ -1,0 +1,21 @@
+{
+    "name": "Iron Finance",
+    "website": "https://iron.finance/",
+    "description": "ICE",
+    "explorer": "https://polygonscan.com/token/0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef",
+    "type": "POLYGON",
+    "symbol": "ICE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef",
+    "links": [
+        {
+            "name": "github",
+            "url": ""
+        },
+        {
+            "name": "twitter",
+            "url": ""
+        }
+    ]
+}
