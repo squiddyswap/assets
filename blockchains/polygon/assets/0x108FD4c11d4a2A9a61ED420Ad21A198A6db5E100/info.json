@@ -1,0 +1,29 @@
+{
+    "name": "Zolamo",
+    "website": "",
+    "description": "Zolamo Finance is a financial ecosystem on the Polygon (MATIC) blockchain which focuses on trust, community ownership, and sustainable returns.",
+    "explorer": "https://polygonscan.com/token/0x108FD4c11d4a2A9a61ED420Ad21A198A6db5E100",
+    "type": "POLYGON",
+    "symbol": "ZOLAMO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x108FD4c11d4a2A9a61ED420Ad21A198A6db5E100",
+    "links": [
+        {
+            "name": "twitter",
+            "url": ""
+        },
+        {
+            "name": "telegram",
+            "url": ""
+        },
+        {
+            "name": "medium",
+            "url": ""
+        },
+        {
+            "name": "coingecko",
+            "url": ""
+        }
+    ]
+}
