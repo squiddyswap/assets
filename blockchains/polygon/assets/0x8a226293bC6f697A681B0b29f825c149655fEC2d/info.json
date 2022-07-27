@@ -1,29 +1,29 @@
 {
-    "name": "ZolaSwap",
-    "symbol": "ZOLA",
+    "name": "Ape Swap Finance Banana",
+    "website": "https://apeswap.finance",
+    "description": "ZolaSwap is an Automated Market Maker, Yield Farming, and Staking platform on Polygon Network. ZolaSwap was built for DeFi. We have a dedicated team, who have been in the crypto space for years.",
+    "explorer": "https://polygonscan.com/token/0x8a226293bc6f697a681b0b29f825c149655fec2d",
     "type": "POLYGON",
+    "symbol": "ZOLA",
     "decimals": 18,
-    "description": "ZolaSwap is the flagship digital token for ZolaSwap decentralized exchange giving users the opportunity for trading, pools, farms, NFTs, IFOs and lottery.",
-    "website": "https://zolaswap.finance",
-    "explorer": "https://polygonscan.com/token/0x8a226293bC6f697A681B0b29f825c149655fEC2d",
     "status": "active",
-    "id": "0x8a226293bC6f697A681B0b29f825c149655fEC2d",
+    "id": "0x8a226293bc6f697a681b0b29f825c149655fec2d",
     "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/zolacoin1"
-        },
         {
             "name": "github",
             "url": "https://github.com/zolaswap"
         },
         {
-            "name": "coingecko",
+            "name": "docs",
             "url": ""
         },
         {
-            "name": "blog",
-            "url": "https://medium.com/@zolaswapfinance"
+            "name": "twitter",
+            "url": "https://twitter.com/zolacoin1"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@zolaswapfinance/"
         }
     ]
 }
