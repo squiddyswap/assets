@@ -1,0 +1,21 @@
+{
+    "name": "Shiba Inu",
+    "website": "https://zolaswap.finance",
+    "description": "Shiba Inu",
+    "explorer": "https://polygonscan.com/token/0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+    "type": "POLYGON",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+    "links": [
+        {
+            "name": "github",
+            "url": ""
+        },
+        {
+            "name": "docs",
+            "url": ""
+        }
+    ]
+}
