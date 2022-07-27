@@ -1,0 +1,53 @@
+{
+    "name": "The Graph",
+    "website": "https://thegraph.com",
+    "description": "The Graph is an indexing protocol for querying networks like Ethereum and IPFS. Anyone can build and publish open APIs, called subgraphs, making data easily accessible.",
+    "explorer": "https://polygonscan.com/token/",
+    "type": "POLYGON",
+    "symbol": "GRT",
+    "decimals": 18,
+    "status": "active",
+    "id": "",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ApeSwapFinance"
+        },
+        {
+            "name": "docs",
+            "url": "https://apeswap.gitbook.io/apeswap-finance/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ape_swap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ape_swap"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/ape_swap_news"
+        },
+        {
+            "name": "medium",
+            "url": "https://ape-swap.medium.com/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/AbVxfGRCSd/"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Apeswap/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/apeswap-finance/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/apeswap-finance"
+        }
+    ]
+}
