@@ -1,0 +1,17 @@
+{
+    "name": "Kommunitas",
+    "website": "https://www.kommunitas.net/",
+    "description": "KOM",
+    "explorer": "https://polygonscan.com/token/0xC004e2318722EA2b15499D6375905d75Ee5390B8",
+    "type": "POLYGON",
+    "symbol": "ADDY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
+    "links": [
+        {
+            "name": "github",
+            "url": ""
+        }
+    ]
+}
