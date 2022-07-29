@@ -1,0 +1,21 @@
+{
+    "name": "QuickSwap",
+    "website": "https://quickswap.exchange/",
+    "description": "Quick is the main token associated with DEX QuickSwap.",
+    "explorer": "https://polygonscan.com/token/0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+    "type": "POLYGON",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/quickswap"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/quickswap/"
+        }
+    ]
+}
