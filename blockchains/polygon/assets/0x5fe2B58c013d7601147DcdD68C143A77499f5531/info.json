@@ -2,7 +2,7 @@
     "name": "The Graph",
     "website": "https://thegraph.com",
     "description": "The Graph is an indexing protocol for querying networks like Ethereum and IPFS. Anyone can build and publish open APIs, called subgraphs, making data easily accessible.",
-    "explorer": "https://polygonscan.com/token/",
+    "explorer": "https://polygonscan.com/token/0x5fe2B58c013d7601147DcdD68C143A77499f5531",
     "type": "POLYGON",
     "symbol": "GRT",
     "decimals": 18,

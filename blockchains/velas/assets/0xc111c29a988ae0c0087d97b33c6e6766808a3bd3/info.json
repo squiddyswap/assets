@@ -1,12 +1,12 @@
 {
-  "name": "Multichain BUSD",
-  "website": "https://paxos.com/busd",
-  "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
-  "explorer": "https://evmexplorer.velas.com/address/0xc111c29a988ae0c0087d97b33c6e6766808a3bd3",
-  "research": "https://research.binance.com/en/projects/binance-usd",
-  "type": "VRC20",
-  "symbol": "BUSD",
-  "decimals": 18,
-  "status": "active",
-  "id": "0xc111c29a988ae0c0087d97b33c6e6766808a3bd3"
+    "name": "Multichain BUSD",
+    "website": "https://paxos.com/busd",
+    "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    "explorer": "",
+    "research": "https://research.binance.com/en/projects/binance-usd",
+    "type": "VRC20",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc111c29a988ae0c0087d97b33c6e6766808a3bd3"
 }

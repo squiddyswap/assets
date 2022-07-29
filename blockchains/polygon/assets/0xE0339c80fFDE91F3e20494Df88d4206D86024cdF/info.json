@@ -1,0 +1,21 @@
+{
+    "name": "Dogelon",
+    "type": "POLYGON",
+    "symbol": "ELON",
+    "decimals": 18,
+    "website": "http://dogelonmars.com",
+    "description": "DOGELON is a cryptocurrency token on te Polygon Network",
+    "explorer": "https://polygonscan.com/token/0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
+    "status": "active",
+    "id": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dogelonmars"
+        },
+        {
+            "name": "github",
+            "url": ""
+        }
+    ]
+}

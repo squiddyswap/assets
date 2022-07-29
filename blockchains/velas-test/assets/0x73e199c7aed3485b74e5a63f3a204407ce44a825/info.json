@@ -1,11 +1,11 @@
 {
-  "name": "AstroSwap",
-  "symbol": "ASTRO",
-  "type": "CRC20",
-  "decimals": 18,
-  "description": "-",
-  "website": "https://www.astroswap.app/",
-  "explorer": "https://evmexplorer.testnet.velas.com/address/0x73e199c7aed3485b74e5a63f3a204407ce44a825",
-  "status": "active",
-  "id": "0x73e199c7aed3485b74e5a63f3a204407ce44a825"
+    "name": "AstroSwap",
+    "symbol": "ASTRO",
+    "type": "CRC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://www.astroswap.app/",
+    "explorer": "",
+    "status": "active",
+    "id": "0x73e199c7aed3485b74e5a63f3a204407ce44a825"
 }
