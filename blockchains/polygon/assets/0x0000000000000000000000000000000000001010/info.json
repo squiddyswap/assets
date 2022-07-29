@@ -1,0 +1,21 @@
+{
+    "name": "Matic",
+    "website": "https://polygon.technology/",
+    "description": "MATIC is the flagship token on the Polygon Network.",
+    "explorer": "https://polygonscan.com/token/0x0000000000000000000000000000000000001010,
+    "type": "POLYGON",
+    "symbol": "GFI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0000000000000000000000000000000000001010",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": ""
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/polygon"
+        }
+    ]
+}
