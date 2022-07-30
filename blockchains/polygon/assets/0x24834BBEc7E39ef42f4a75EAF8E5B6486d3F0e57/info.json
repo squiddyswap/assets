@@ -1,0 +1,17 @@
+{
+    "name": "LUNA",
+    "website": "",
+    "description": "Luna",
+    "explorer": "https://polygonscan.com/token/0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57",
+    "type": "POLYGON",
+    "symbol": "maUSDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57",
+    "links": [
+        {
+            "name": "discord",
+            "url": ""
+        }
+    ]
+}
