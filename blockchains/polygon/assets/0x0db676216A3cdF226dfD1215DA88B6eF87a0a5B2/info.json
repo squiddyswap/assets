@@ -1,0 +1,21 @@
+{
+    "name": "Wrapped MATIC",
+    "website": "https://polygon.technology/",
+    "description": "Wrapped Matic",
+    "explorer": "https://polygonscan.com/token/0x0db676216A3cdF226dfD1215DA88B6eF87a0a5B2",
+    "type": "POLYGON",
+    "symbol": "IDIA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0db676216A3cdF226dfD1215DA88B6eF87a0a5B2",
+    "links": [
+        {
+            "name": "github",
+            "url": ""
+        },
+        {
+            "name": "twitter",
+            "url": ""
+        }
+    ]
+}
