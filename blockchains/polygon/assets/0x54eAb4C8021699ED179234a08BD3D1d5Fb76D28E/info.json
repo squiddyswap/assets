@@ -1,0 +1,33 @@
+{
+    "name": "AMIBC Token",
+    "website": "https://0xbitcoin.org/",
+    "description": "Pure-mined neutral token.",
+    "explorer": "https://polygonscan.com/token/0x54eAb4C8021699ED179234a08BD3D1d5Fb76D28E",
+    "type": "POLYGON",
+    "symbol": "AMIBC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x54eAb4C8021699ED179234a08BD3D1d5Fb76D28E",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/mrandall101/assets"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zolaswap101"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ZolaSwap"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": ""
+        },
+        {
+            "name": "coingecko",
+            "url": ""
+        }
+    ]
+}
