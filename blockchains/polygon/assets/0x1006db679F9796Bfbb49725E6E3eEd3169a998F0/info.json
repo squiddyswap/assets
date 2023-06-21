@@ -1,0 +1,33 @@
+{
+    "name": "SQUIDDY Token",
+    "website": "https://zolaswap.finance/",
+    "description": "SQUIDDY token.",
+    "explorer": "https://polygonscan.com/token/0x1006db679F9796Bfbb49725E6E3eEd3169a998F0",
+    "type": "POLYGON",
+    "symbol": "SQUIDDY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1006db679F9796Bfbb49725E6E3eEd3169a998F0",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/mrandall101/assets"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zolaswap101"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ZolaSwap"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": ""
+        },
+        {
+            "name": "coingecko",
+            "url": ""
+        }
+    ]
+}
