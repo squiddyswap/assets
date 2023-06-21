@@ -1,0 +1,33 @@
+{
+    "name": "CRYPTOCASTER Token",
+    "website": "https://zolaswap.finance/",
+    "description": "CRYPTOCASTER token.",
+    "explorer": "https://polygonscan.com/token/0x140F69555B9428Be478C9203E192EccBeD3fBFC9",
+    "type": "POLYGON",
+    "symbol": "CRYPTOCASTER",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x140F69555B9428Be478C9203E192EccBeD3fBFC9",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/mrandall101/assets"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zolaswap101"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ZolaSwap"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": ""
+        },
+        {
+            "name": "coingecko",
+            "url": ""
+        }
+    ]
+}
