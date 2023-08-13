@@ -1,0 +1,17 @@
+{
+    "name": "GORydz",
+    "website": "https://zolaswap.finance/",
+    "description": "GORydz is the main token associated with DEX ZolaSwap.",
+    "explorer": "https://polygonscan.com/token/0xd4374E059648Df86cA9465484cFBa4CD4540E146",
+    "type": "POLYGON",
+    "symbol": "GORYDZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd4374E059648Df86cA9465484cFBa4CD4540E146",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/zolaswap101"
+        }
+    ]
+}
