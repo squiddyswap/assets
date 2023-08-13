@@ -1,0 +1,17 @@
+{
+    "name": "WittYou",
+    "website": "https://zolaswap.finance/",
+    "description": "Quick is the main token associated with DEX QuickSwap.",
+    "explorer": "https://polygonscan.com/token/0xBe7BA3504072244d882360cCBDDc8e9f09400C8C",
+    "type": "POLYGON",
+    "symbol": "WITTYOU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBe7BA3504072244d882360cCBDDc8e9f09400C8C",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/zolaswap101"
+        }
+    ]
+}
