@@ -1,0 +1,17 @@
+{
+    "name": "Khaunda",
+    "website": "https://zolaswap.finance/",
+    "description": "Khaunda is the tokenization for Khaunda social media.",
+    "explorer": "https://polygonscan.com/token/0xE0A9c1f476eE34f0c56Ba2Ebb648261BC3C00d57",
+    "type": "POLYGON",
+    "symbol": "KHAUNDA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE0A9c1f476eE34f0c56Ba2Ebb648261BC3C00d57",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/zolaswap101"
+        }
+    ]
+}
