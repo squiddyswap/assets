@@ -1,0 +1,29 @@
+{
+    "name": "Ape Swap Finance Banana",
+    "website": "https://apeswap.finance",
+    "description": "ZolaSwap is an Automated Market Maker, Yield Farming, and Staking platform on Polygon Network. ZolaSwap was built for DeFi. We have a dedicated team, who have been in the crypto space for years.",
+    "explorer": "https://polygonscan.com/token/0x8a226293bc6f697a681b0b29f825c149655fec2d",
+    "type": "POLYGON",
+    "symbol": "ZOLA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8a226293bC6f697A681B0b29f825c149655fEC2d",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/zolaswap"
+        },
+        {
+            "name": "docs",
+            "url": ""
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zolacoin1"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@zolaswapfinance/"
+        }
+    ]
+}
