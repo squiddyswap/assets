@@ -1,0 +1,29 @@
+{
+    "name": "Zroarus",
+    "website": "https://zroarus.technology",
+    "description": "Zroarus is a startup blockchain.",
+    "explorer": "https://polygonscan.com/token/0x8FBA2D53ec41a32e8e36A105651a2e6b03Fa14D0",
+    "type": "POLYGON",
+    "symbol": "ZOLA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8FBA2D53ec41a32e8e36A105651a2e6b03Fa14D0",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/zroarus"
+        },
+        {
+            "name": "docs",
+            "url": ""
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zroarus"
+        }
+        // {
+        //     "name": "medium",
+        //     "url": "https://medium.com/@zolaswapfinance/"
+        // }
+    ]
+}
